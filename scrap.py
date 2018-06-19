@@ -11,7 +11,7 @@ from lxml import html
 
 # This URL will be the URL that your login form points to with the "action" tag.
 # Login URL might not be obvious. An advanced trick to find it:
-# 1 Open developer tools (F12)
+# 1. Open developer tools (F12)
 # 2. Go to "network" tab and watch it while you log in the page
 # 3. An item should be active while you do this. Click on its name.
 # 4. In the new menu, go to "Headers" tab. Here you can get the field
